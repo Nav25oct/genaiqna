@@ -127,7 +127,7 @@ LLMs are trained in **two main phases**:
 
 ---
 
-# What is a Token in a Language Model?
+# Q3 - What is a Token in a Language Model?
 
 In the context of language models, a **token** is a unit of text that the model processes during training or inference. Tokens are the basic building blocks that the model uses to understand and generate text. The way tokens are defined and used depends on the tokenization method employed by the model.
 
@@ -169,7 +169,7 @@ Understanding tokens and tokenization is fundamental to working with language mo
 
 
 
-# 🧮 How to Estimate the Cost of Running a SaaS-Based vs. Open-Source LLM
+# Q4 - 🧮 How to Estimate the Cost of Running a SaaS-Based vs. Open-Source LLM
 
 Let’s imagine you're trying to run a lemonade stand 🍋. You can either:
 - **Buy pre-made lemonade** from a vendor (SaaS), or
